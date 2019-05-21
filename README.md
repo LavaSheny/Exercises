@@ -1,2 +1,2 @@
 # Exercises
-This repertory includes daily exercises and materials
+This repertory includes daily exercises and materials.
